@@ -81,4 +81,4 @@ If you enjoy using this class and would like to say thank you, donations are a g
 
 Donations are invested back into the project :+1:
 
-- [PayPal](paypal.me/sasannobakht)
+- [PayPal](https://paypal.me/sasannobakht)
