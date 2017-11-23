@@ -71,3 +71,14 @@ echo "<pre>";
 print_r(array_reverse($Genetic->Generations));
 echo "</pre>";
 ```
+
+
+
+## Donate
+
+All work on this class consists of many hours of coding during my free time, to provide you with a usefull Genetic Algorithm Class that is easy to use and extend.
+If you enjoy using this class and would like to say thank you, donations are a great way to show your support.
+
+Donations are invested back into the project :+1:
+
+- PayPal: [PayPal/sasannobakht] (account of @sasannobakht)
