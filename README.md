@@ -68,7 +68,7 @@ $Genetic = new GeneticAlgorithm (
 $Genetic->Run();
 
 echo "<pre>";
-print_r(array_reverse($Genetic->Generations));
+    print_r(array_reverse($Genetic->Generations));
 echo "</pre>";
 ```
 
